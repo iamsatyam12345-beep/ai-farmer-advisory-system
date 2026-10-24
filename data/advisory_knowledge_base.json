@@ -1,0 +1,162 @@
+[
+  {
+    "id": "DIS-001",
+    "category": "crop_disease",
+    "topic": "Early Blight and Leaf Spot (Tomato, Potato, Vegetables)",
+    "keywords": ["blight", "spots", "yellow", "rings", "leaves", "circular", "alternaria", "foliage"],
+    "symptoms": "Dark brown circular spots with concentric target-board rings surrounded by yellow chlorotic halo on older leaves, progressing upward.",
+    "recommended_actions": "1. Remove and destroy heavily infected lower leaves to restrict spore dispersal. 2. Apply Mancozeb 75% WP @ 2.5 g/L water or Chlorothalonil @ 2 g/L during dry, calm morning hours. 3. Avoid overhead sprinkler irrigation to keep leaf canopy dry.",
+    "preventative_measures": "Implement 3-year crop rotation with non-solanaceous crops, maintain adequate plant spacing for aeration, and use disease-free certified seeds.",
+    "safety_precaution": "Wear protective mask and gloves while spraying fungicides. Observe a 7-day pre-harvest waiting interval (PHI)."
+  },
+  {
+    "id": "DIS-002",
+    "category": "crop_disease",
+    "topic": "Powdery Mildew (Cucurbits, Pulses, Fruit crops)",
+    "keywords": ["powdery", "white", "mildew", "coating", "upper", "surface", "dust", "leaves", "fungus"],
+    "symptoms": "White talcum-like powdery fungal patches on upper leaf surfaces, tender shoots, and stems, leading to premature leaf drying and drop.",
+    "recommended_actions": "1. Spray wettable sulfur 80% WP @ 2.5 to 3.0 g/L or Hexaconazole 5% EC @ 1 ml/L upon initial appearance. 2. For organic farming, spray 0.5% neem seed kernel extract (NSKE) or diluted cow urine/milk-whey solution.",
+    "preventative_measures": "Prune excess shaded foliage to enhance sunlight penetration; avoid excessive nitrogen fertilization which produces overly succulent susceptible leaves.",
+    "safety_precaution": "Do not spray sulfur formulations when ambient temperature exceeds 32°C to prevent leaf scorching (phytotoxicity)."
+  },
+  {
+    "id": "DIS-003",
+    "category": "crop_disease",
+    "topic": "Blast and Rust Diseases (Rice, Wheat, Millets)",
+    "keywords": ["blast", "rust", "spindle", "pustules", "orange", "brown", "cereal", "grain", "rice", "wheat"],
+    "symptoms": "Spindle-shaped diamond lesions with ash-grey centers on rice leaves/neck, or reddish-orange powdery pustules across wheat leaf blades.",
+    "recommended_actions": "1. For rice blast: spray Tricyclazole 75% WP @ 0.6 g/L water. 2. For wheat stripe/brown rust: spray Propiconazole 25% EC @ 1 ml/L at first sign of pustule appearance.",
+    "preventative_measures": "Use resistant cultivar varieties (e.g., HD-2967/PBW-502 for wheat, BPT-5204 blast-tolerant strains); practice seed treatment with Carbendazim @ 2 g/kg seed.",
+    "safety_precaution": "Avoid late afternoon application to prevent pesticide drift onto nearby grazing pastures or water bodies."
+  },
+  {
+    "id": "DIS-004",
+    "category": "crop_disease",
+    "topic": "Root Rot, Damping-Off, and Vascular Wilt",
+    "keywords": ["wilt", "rotting", "collar", "damping", "roots", "collapses", "decay", "black", "rhizome"],
+    "symptoms": "Seedling collapse at soil surface, brown-black discoloration of stem base (collar region), vascular browning inside stem, or mushy foul-smelling roots.",
+    "recommended_actions": "1. Drench root zone with Copper Oxychloride 50% WP @ 3 g/L or Carbendazim 50% WP @ 1 g/L. 2. Improve ridge and furrow field drainage immediately to evacuate standing water.",
+    "preventative_measures": "Soil solarization during peak summer months; blend Trichoderma viride or Pseudomonas fluorescens @ 2.5 kg/acre with well-rotted farmyard manure during field preparation.",
+    "safety_precaution": "Do not mix chemical biocides/fungicides with beneficial bio-agents (like Trichoderma) simultaneously."
+  },
+  {
+    "id": "PEST-001",
+    "category": "pest_management",
+    "topic": "Stem Borer and Fruit Borer Caterpillars (Rice, Maize, Brinjal, Pulses)",
+    "keywords": ["stem", "borer", "dead", "heart", "caterpillar", "holes", "frass", "chewing", "larvae", "pod"],
+    "symptoms": "Drying of central shoot ('dead heart' in vegetative phase or 'white ear head' in reproductive phase), bored holes in stems or fruits with sawdust-like frass.",
+    "recommended_actions": "1. Clip and burn infested seedling shoot tips. 2. Install pheromone traps @ 4 to 5 traps per acre for early monitoring. 3. Apply Cartap Hydrochloride 4G @ 7.5 kg/acre in standing water or spray Chlorantraniliprole 18.5% SC @ 0.3 ml/L water.",
+    "preventative_measures": "Destroy stubbles after harvest to eliminate diapausing larvae; release egg parasitoid Trichogramma chilonis @ 20,000 to 40,000 wasps per acre at weekly intervals.",
+    "safety_precaution": "Keep farm livestock away from treated fields for at least 72 hours following systemic insecticide broadcast."
+  },
+  {
+    "id": "PEST-002",
+    "category": "pest_management",
+    "topic": "Sucking Pests: Aphids, Whiteflies, Thrips, and Mites",
+    "keywords": ["aphid", "whitefly", "thrips", "sucking", "sap", "curling", "webbing", "mite", "sticky", "hopper"],
+    "symptoms": "Clusters of tiny green/black insects or fluttering whiteflies beneath leaves, leaf crinkling/curling, silvery patches, yellow stippling, and sooty mold from honeydew.",
+    "recommended_actions": "1. Install yellow sticky traps (for whiteflies/aphids) and blue sticky traps (for thrips) @ 10 traps/acre. 2. Spray Neem Oil 10,000 ppm @ 3 ml/L as gentle bio-repellent. 3. For severe infestations, spray Acetamiprid 20% SP @ 0.3 g/L or Thiamethoxam 25% WG @ 0.35 g/L.",
+    "preventative_measures": "Maintain weed-free border bunds to eliminate alternate wild hosts; avoid over-application of synthetic nitrogen fertilizers.",
+    "safety_precaution": "Do not spray systemic neonicotinoid insecticides during active daytime honeybee foraging periods."
+  },
+  {
+    "id": "PEST-003",
+    "category": "pest_management",
+    "topic": "Soil Pests: Cutworms and Termites",
+    "keywords": ["termite", "cutworm", "severed", "seedling", "underground", "soil", "roots", "eating"],
+    "symptoms": "Young seedlings found cut off near the soil line overnight, or plant bases and roots hollowed out by subterranean worker termites.",
+    "recommended_actions": "1. Inoculate irrigation water or drench soil with Chlorpyrifos 20% EC @ 2.5 ml/L or Fipronil 0.3% GR @ 8-10 kg/acre. 2. For organic management, incorporate well-decomposed neem cake @ 100 kg/acre into topsoil.",
+    "preventative_measures": "Never apply raw, uncomposted livestock manure to soil as it attracts termites and beetle grubs; plow field deeply during summer to expose hidden pupae to predatory birds.",
+    "safety_precaution": "Ensure proper protective gumboots and hand gloves during soil drenching."
+  },
+  {
+    "id": "SOIL-001",
+    "category": "soil_and_fertilizer",
+    "topic": "Nitrogen, Phosphorus, and Potassium (NPK) Nutrition Management",
+    "keywords": ["urea", "dap", "npk", "nitrogen", "phosphorus", "potassium", "fertilizer", "dose", "stunted", "yellowing"],
+    "symptoms": "Older lower leaves turning uniformly pale yellow (N deficiency), purplish discoloration of veins/stems with poor root development (P deficiency), or leaf margin scorch (K deficiency).",
+    "recommended_actions": "1. Apply balanced basal dose of NPK based on soil health card testing. 2. For cereal crops, apply full phosphorus and potash along with 1/3 nitrogen at basal sowing, followed by remaining nitrogen split at tillering and panicle/flowering stages.",
+    "preventative_measures": "Incorporate organic matter such as well-decomposed Farmyard Manure (FYM) @ 4 to 5 tonnes/acre before primary tillage to improve soil buffering capacity.",
+    "safety_precaution": "Do not broadcast urea fertilizers on dry un-irrigated soil or under baking noon sun to prevent nitrogen volatilization as ammonia gas."
+  },
+  {
+    "id": "SOIL-002",
+    "category": "soil_and_fertilizer",
+    "topic": "Soil pH Correction: Acidic, Alkaline, and Saline Soils",
+    "keywords": ["ph", "acidic", "alkaline", "saline", "lime", "gypsum", "amendment", "salt", "crust"],
+    "symptoms": "Stunted crop vigor, patchy emergence, white crust on soil ridges (salinity), or poor nutrient uptake despite heavy chemical fertilization.",
+    "recommended_actions": "1. For Acidic soils (pH < 6.0): Broadcast agricultural lime (calcium carbonate) or dolomite @ 1 to 2 tonnes/acre 3 weeks before sowing. 2. For Sodic/Alkaline soils (pH > 8.0): Apply agricultural gypsum based on gypsum requirement test followed by good flushing. 3. For Saline soils: Provide subsurface drainage and leach salts with fresh water.",
+    "preventative_measures": "Plant green manuring crops like Sesbania (Dhaincha) or Sunn hemp; avoid high saline groundwater for long-term irrigation.",
+    "safety_precaution": "Allow adequate soil reaction time (15-21 days) after applying lime or gypsum before sowing seeds or applying phosphatic fertilizers."
+  },
+  {
+    "id": "SOIL-003",
+    "category": "soil_and_fertilizer",
+    "topic": "Micronutrient Deficiencies: Zinc, Iron, and Boron",
+    "keywords": ["zinc", "iron", "boron", "chlorosis", "micronutrient", "interveinal", "bleaching", "hollow"],
+    "symptoms": "Interveinal chlorosis on youngest leaves with dark green veins (Fe), white/bleached bud bands on young leaves (Zn), or internal hollow heart and brittle stems (B).",
+    "recommended_actions": "1. For Zinc deficiency: Foliar spray of Zinc Sulfate (ZnSO4 21%) @ 5 g/L mixed with 2.5 g/L slaked lime, or soil application of 10 kg/acre ZnSO4 at sowing. 2. For Iron chlorosis: Foliar spray of Ferrous Sulfate (FeSO4 19%) @ 5 g/L + citric acid 1 g/L. 3. For Boron: Spray Solubor (Borax 20%) @ 1 to 1.5 g/L at pre-flowering.",
+    "preventative_measures": "Perform periodic comprehensive soil micronutrient testing; avoid over-liming which immobilizes zinc, iron, and manganese in soil.",
+    "safety_precaution": "Always neutralize zinc/iron sulfate with lime or urea solution to prevent chemical leaf burning during foliar application."
+  },
+  {
+    "id": "IRR-001",
+    "category": "irrigation_and_water",
+    "topic": "Critical Growth Stage Irrigation Scheduling (Cereals, Pulses, Cash Crops)",
+    "keywords": ["stages", "schedule", "wheat", "irrigation", "watering", "critical", "crown", "tillering", "flowering"],
+    "symptoms": "Crop moisture stress at vital physiological stages causing irreversible reduction in tillering, spikelet sterility, or poor grain filling.",
+    "recommended_actions": "1. For Wheat: Ensure timely watering at Crown Root Initiation (CRI - 21 days after sowing), Tillering (40-45 DAS), Jointing (60-65 DAS), Flowering (80-85 DAS), and Milk/Dough stage. 2. Prioritize irrigation at flowering and pod/fruit filling across all crops as stress here causes maximum yield drop.",
+    "preventative_measures": "Utilize soil moisture tensiometers or the feel-and-roll soil ball method before deciding watering intervals.",
+    "safety_precaution": "Avoid heavy flood irrigation during cloudy, high-wind spells to prevent tall crop lodging (stem bending)."
+  },
+  {
+    "id": "IRR-002",
+    "category": "irrigation_and_water",
+    "topic": "Micro-Irrigation (Drip & Sprinkler) Operation and Maintenance",
+    "keywords": ["drip", "sprinkler", "clogging", "emitters", "flushing", "acid", "pressure", "water-saving"],
+    "symptoms": "Uneven water discharge along drip laterals, clogged drippers from sand/algae or calcium salt crusts, and pressure gauge abnormalities.",
+    "recommended_actions": "1. Perform regular lateral line flushing by opening sub-main end caps weekly. 2. For mineral scaling/salt deposits: Conduct acid treatment using dilute Hydrochloric Acid (HCl) or Nitric Acid to bring water pH to 4.0 for 30 minutes, then flush thoroughly. 3. Clean disc and sand media filters regularly.",
+    "preventative_measures": "Install venturi injectors for fertigation; verify water quality (bicarbonates and iron concentration) before selecting dripper models.",
+    "safety_precaution": "Always pour concentrated acid slowly into water (never water into acid) while wearing protective safety goggles and rubber gloves."
+  },
+  {
+    "id": "IRR-003",
+    "category": "irrigation_and_water",
+    "topic": "Waterlogging Management and Soil Drainage",
+    "keywords": ["drainage", "waterlogging", "submerged", "flooded", "excess", "stagnation", "overwatering"],
+    "symptoms": "Standing water in furrows for >24 hours, soil turning anaerobic and grey, yellowing of foliage from root oxygen deprivation, and root rot.",
+    "recommended_actions": "1. Dig perimeter surface drainage trenches (30 cm deep) immediately to discharge standing water away from the root zone. 2. After soil dries sufficiently, perform light shallow inter-cultivation or hoeing to aerate soil pores. 3. Apply a light foliar spray of 1% urea or 19:19:19 to revive distressed foliage.",
+    "preventative_measures": "Form raised beds or broad bed furrow (BBF) systems in heavy black clay soils prone to water retention.",
+    "safety_precaution": "Do not step or operate heavy tractor machinery on waterlogged ground to avoid severe subsoil compaction."
+  },
+  {
+    "id": "HARV-001",
+    "category": "weather_and_harvest",
+    "topic": "Crop Maturity Signs and Optimal Harvest Timing",
+    "keywords": ["harvest", "maturity", "indicators", "signs", "timing", "paddy", "wheat", "pods", "moisture"],
+    "symptoms": "Uncertainty regarding exact harvest date, risking grain shattering from delayed harvest or immature high-moisture grain from early harvest.",
+    "recommended_actions": "1. For Paddy: Harvest when 80-85% of panicles turn golden yellow and moisture is around 20-22%. 2. For Wheat: Harvest when ears turn straw-colored and grain cannot be dented with a thumbnail. 3. For Pulses: Harvest when 80% pods turn dry brown. 4. Harvest in clear dry weather preferably during morning hours once dew evaporates.",
+    "preventative_measures": "Monitor weather forecast radars through regional agro-meteorological bulletins 3 to 5 days prior to planning combine harvesting.",
+    "safety_precaution": "Keep farm machinery guards and emergency shut-offs engaged on mechanical threshers and harvesters."
+  },
+  {
+    "id": "HARV-002",
+    "category": "weather_and_harvest",
+    "topic": "Grain Drying and Safe Storage Moisture Levels",
+    "keywords": ["storage", "moisture", "drying", "weevils", "grain", "godown", "aflatoxin", "tarpaulin", "bins"],
+    "symptoms": "Grain mold growth, heating of grain piles, fungal aflatoxin accumulation, or weevil infestation inside storage structures.",
+    "recommended_actions": "1. Sun-dry grains on clean canvas or cement threshing floors until safe moisture is reached: Cereals (Wheat/Rice) 10-12%, Pulses 9-10%, Oilseeds (Groundnut/Mustard) 7-8%. 2. Store dried produce in clean airtight bins, hermetic Purdue Improved Crop Storage (PICS) bags, or moisture-proof silos. 3. Place dried neem leaves or approved aluminum phosphide tablets under technical supervision.",
+    "preventative_measures": "Thoroughly whitewash, clean, and fumigate storage rooms prior to loading new season crop; store grain bags on wooden pallets 30 cm away from walls.",
+    "safety_precaution": "Never enter freshly fumigated storage sheds without adequate ventilation. Chemical fumigants should only be handled with certified safety protocols."
+  },
+  {
+    "id": "HARV-003",
+    "category": "weather_and_harvest",
+    "topic": "Adverse Weather Mitigation: Frost, Heatwave, and Unseasonal Rains",
+    "keywords": ["frost", "weather", "heatwave", "rain", "unseasonal", "storm", "hail", "wind"],
+    "symptoms": "Sudden weather forecast of sub-zero temperatures (frost), heat spikes during anthesis, or impending cyclones and squalls.",
+    "recommended_actions": "1. For Frost: Provide light night irrigation to the field and create gentle smoke screens on upwind boundaries using crop residues. 2. For Heatwave: Spray 0.2% Potassium Nitrate (KNO3) or light frequent sprinkler misting to lower canopy heat stress. 3. For Storm/Rain: Prop and stake tall crops (banana, papaya, sugarcane) with bamboo poles; cover harvested field heaps with waterproof tarpaulins.",
+    "preventative_measures": "Enroll fields in crop insurance schemes (e.g. PMFBY); construct windbreaks along field perimeters facing prevailing storm winds.",
+    "safety_precaution": "Ensure electrical connections to farm motors and irrigation pumps are disconnected during severe thunder and lightning storms."
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "dataset_size": 250,
+  "train_size": 187,
+  "test_size": 63,
+  "num_classes": 5,
+  "classes": [
+    "crop_disease",
+    "irrigation_and_water",
+    "pest_management",
+    "soil_and_fertilizer",
+    "weather_and_harvest"
+  ],
+  "accuracy": 0.9365,
+  "macro_precision": 0.9426,
+  "macro_recall": 0.9372,
+  "macro_f1": 0.937,
+  "weighted_f1": 0.9363,
+  "classification_report": {
+    "crop_disease": {
+      "precision": 0.9230769230769231,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.9230769230769231,
+      "support": 13.0
+    },
+    "irrigation_and_water": {
+      "precision": 1.0,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.9565217391304348,
+      "support": 12.0
+    },
+    "pest_management": {
+      "precision": 0.8666666666666667,
+      "recall": 1.0,
+      "f1-score": 0.9285714285714286,
+      "support": 13.0
+    },
+    "soil_and_fertilizer": {
+      "precision": 1.0,
+      "recall": 0.8461538461538461,
+      "f1-score": 0.9166666666666666,
+      "support": 13.0
+    },
+    "weather_and_harvest": {
+      "precision": 0.9230769230769231,
+      "recall": 1.0,
+      "f1-score": 0.96,
+      "support": 12.0
+    },
+    "accuracy": 0.9365079365079365,
+    "macro avg": {
+      "precision": 0.9425641025641026,
+      "recall": 0.9371794871794872,
+      "f1-score": 0.9369673514890906,
+      "support": 63.0
+    },
+    "weighted avg": {
+      "precision": 0.941961741961742,
+      "recall": 0.9365079365079365,
+      "f1-score": 0.9362913667882612,
+      "support": 63.0
+    }
+  }
+}

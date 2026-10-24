@@ -1,0 +1,251 @@
+query,category,intent_description
+My tomato leaves are turning yellow with dark brown spots and circular rings,crop_disease,Early blight disease in tomato
+White powdery coating appearing on the upper surface of pumpkin leaves,crop_disease,Powdery mildew on cucurbits
+Rice plants have spindle-shaped lesions on leaves with gray centers,crop_disease,Blast disease in rice
+Wheat crop leaves have orange-brown pustules that leave powdery dust on fingers,crop_disease,Rust infection in wheat
+Potato foliage is suddenly wilting and tubers show dark brown dry rot,crop_disease,Late blight in potato
+Chili plant leaves are curling upwards and showing yellow mosaic patterns,crop_disease,Leaf curl viral disease in chili
+Cotton plants suddenly wilting during flowering despite adequate soil moisture,crop_disease,Vascular wilt disease in cotton
+Black sooty mold covering mango leaves and sticky sap oozing,crop_disease,Sooty mold following sap feeding
+Brinjal stems are turning black near soil level and plant collapses,crop_disease,Damping off and collar rot in brinjal
+Ginger rhizomes are rotting in waterlogged soil with foul smell,crop_disease,Bacterial soft rot in ginger
+Yellow halos around water-soaked brown spots on bean leaves,crop_disease,Bacterial brown leaf spot in pulses
+Banana leaves showing yellow streaks and outer leaves collapsing down,crop_disease,Panama wilt disease in banana
+Small brown dead spots with yellow edges on cabbage leaves,crop_disease,Alternaria leaf spot on brassicas
+Maize leaves show long grayish-green necrotic streaks,crop_disease,Northern corn leaf blight
+Mustard plants have white blister-like pustules on lower leaf surfaces,crop_disease,White rust in mustard
+Papaya leaves show mottling mosaic discoloration and distorted vein clearing,crop_disease,Papaya ringspot virus
+Grapevine leaves develop oily yellowish spots on top and downy growth underneath,crop_disease,Downy mildew on grapevine
+Onion leaves turning purple with brown sunken lesions during wet weather,crop_disease,Purple blotch in onion
+Guava tree branches are drying up from top downwards with leaf dropping,crop_disease,Guava wilt disease
+Apple fruits show dark sunken scabby lesions with corky surface,crop_disease,Apple scab fungal disease
+Fungal pathogen causing brown spots on paddy glumes and leaves,crop_disease,Brown spot disease in rice
+Sheath blight lesions on lower rice stems near water line,crop_disease,Sheath blight in paddy
+Powdery mildew fungal patches on pea pods and foliage,crop_disease,Powdery mildew in field pea
+Anthracnose black sunken lesions on ripening mango and chili fruits,crop_disease,Anthracnose fruit rot
+Bacterial leaf blight in rice causing yellow water-soaked wavy leaf streaks,crop_disease,Bacterial blight in paddy
+Downy mildew yellowish oily spots on upper grape vine leaf surface,crop_disease,Downy mildew in vineyard
+Tikka disease causing circular necrotic dark spots on groundnut leaves,crop_disease,Tikka leaf spot in peanut
+Damping off rotting cabbage seedlings in nursery seed bed,crop_disease,Damping off in nursery
+Yellow vein mosaic virus in bhindi okra crop leaf veins turning yellow,crop_disease,Yellow vein mosaic in okra
+Collar rot fungus destroying tomato plant roots in wet conditions,crop_disease,Collar rot in solanaceous vegetables
+Fusarium wilt causes pigeonpea branches to dry with dark vascular browning inside stem,crop_disease,Fusarium wilt in red gram
+Cercospora leaf spot disease in mungbean and urad pulse crop,crop_disease,Cercospora leaf spot in green gram
+Small green insects clustered under cotton leaves sucking sap and causing curling,pest_management,Aphid infestation on cotton
+Dead heart symptom in young paddy shoots with caterpillar inside the stem,pest_management,Yellow stem borer in rice
+Caterpillars eating holes into gram and chickpea pods during pod development,pest_management,Gram pod borer in pulses
+White tiny flying insects fluttering whenever I shake my tomato plants,pest_management,Whitefly infestation in vegetable crops
+Holes bored into brinjal shoots and fruits with frass pushed outside,pest_management,Shoot and fruit borer in brinjal
+Fall armyworm larvae chewing maize whorls and leaving large ragged holes,pest_management,Fall armyworm in corn
+Tiny red spider mites making fine webbing under bhindi leaves,pest_management,Red spider mite in okra
+Brown planthopper causing hopper burn and drying patches in paddy field,pest_management,Brown planthopper in rice
+Termites damaging roots of newly planted sugarcane setts,pest_management,Termite attack in sugarcane
+Leaf miner making silvery zigzag tunneling trails inside citrus leaves,pest_management,Citrus leaf miner
+Mealybugs forming white waxy clusters on papaya stems and fruits,pest_management,Mealybug attack on fruit crops
+Hairy caterpillars devouring soybean leaves in large groups,pest_management,Bihar hairy caterpillar in soybean
+Green stink bugs puncturing pigeonpea pods and shriveling seeds,pest_management,Pod bug damage in red gram
+Grasshoppers chewing edges of sorghum leaves during monsoon season,pest_management,Grasshopper foliage feeding in millet
+Fruit fly maggots spoiling ripening guava and mango fruits,pest_management,Bactrocera fruit fly infestation
+Thrips causing silvering and upward cupping of young capsicum leaves,pest_management,Thrips damage in capsicum
+Beetles skeletonizing groundnut foliage leaving only leaf veins intact,pest_management,Flea beetle attack on groundnut
+Pink bollworm larvae found inside mature cotton bolls staining lint,pest_management,Pink bollworm damage in cotton
+Cutworms severing newly emerged vegetable seedlings near soil surface at night,pest_management,Cutworm attack on young seedlings
+Gall midge causing onion leaf deformity and silver shoot in paddy,pest_management,Gall midge pest in rice
+Green leafhopper insect vector spreading tungro disease in rice field,pest_management,Green leafhopper in paddy
+Fall armyworm caterpillars destroying sweet corn whorls with heavy frass,pest_management,Fall armyworm in maize
+Pink bollworm larvae feeding on developing cotton seed bolls,pest_management,Pink bollworm in cotton
+Diamondback moth larvae eating holes in cabbage and cauliflower leaves,pest_management,Diamondback moth in brassicas
+Whitefly insect swarm transmitting yellow vein mosaic virus in okra field,pest_management,Whitefly vector control
+Red hairy caterpillar marching across groundnut fields devouring leaves,pest_management,Red hairy caterpillar in peanut
+Stem fly infestation in soybean causing withered seedlings and hollow stem,pest_management,Stem fly in soybean
+Pod borer helicoverpa armigera damaging tomato and chickpea pods,pest_management,Helicoverpa pod borer
+Spider mites causing webbing and stippling under brinjal leaves,pest_management,Two-spotted spider mite in eggplant
+Brown planthopper insect pest causing hopper burn drying patches in paddy field,pest_management,BPH management in rice
+Thrips attacking onion foliage causing silver white streaks and curling,pest_management,Onion thrips control
+Citrus psyllid insect vector spreading citrus greening disease in orchard,pest_management,Citrus psyllid control
+Lower leaves of wheat crop turn pale yellow from tip along the midrib,soil_and_fertilizer,Nitrogen deficiency in cereal crops
+How much urea and DAP fertilizer should I apply per acre for paddy crop?,soil_and_fertilizer,NPK fertilizer dosage for rice
+Soil test report shows pH 8.5 alkaline soil what amendments can I use?,soil_and_fertilizer,Alkaline soil correction with gypsum
+Tomato leaves have purplish tint on undersides and stunted root growth,soil_and_fertilizer,Phosphorus deficiency in vegetable crop
+Marginal scorching and brown burning on leaf edges of maize plant,soil_and_fertilizer,Potassium deficiency symptoms
+Interveinal chlorosis on young citrus leaves with green veins and yellow background,soil_and_fertilizer,Iron deficiency in fruit orchard
+White bud symptom in young maize seedlings with pale bleaching of leaves,soil_and_fertilizer,Zinc micronutrient deficiency
+How do I prepare good quality enriched compost or vermicompost on my farm?,soil_and_fertilizer,Vermicomposting process and farmyard manure
+Is biofertilizer like Azotobacter or Rhizobium effective for seed treatment in pulses?,soil_and_fertilizer,Biofertilizer seed inoculation
+Acidic soil with pH 5.2 reducing crop yield how much lime is needed?,soil_and_fertilizer,Acidic soil reclamation with agricultural lime
+When is the best timing to split urea application in sugarcane cultivation?,soil_and_fertilizer,Split application of nitrogen in sugarcane
+Can I mix DAP fertilizer with compost before broadcasting in potato field?,soil_and_fertilizer,Fertilizer application methods and blending
+Sulfur deficiency signs on young mustard leaves turning pale yellowish green,soil_and_fertilizer,Sulfur requirement for oilseed crops
+How to apply neem cake to soil for improving organic matter and pest deterrence?,soil_and_fertilizer,Organic amendment with neem cake
+Blossom end rot in tomato fruits with black leathery sunken bottom,soil_and_fertilizer,Calcium deficiency induced blossom end rot
+Magnesium deficiency symptoms showing orange red pigmentation on older cotton leaves,soil_and_fertilizer,Magnesium nutrition in cotton
+Correct dose of boron spray to prevent hollow heart in cauliflower,soil_and_fertilizer,Boron foliar application in vegetables
+Benefits of green manuring with sunn hemp before sowing wheat crop,soil_and_fertilizer,Green manuring for soil health
+Foliar spray of 19:19:19 water soluble fertilizer during flowering stage,soil_and_fertilizer,Foliar nutrient booster application
+How to remediate saline soil with white salt crust on ground surface?,soil_and_fertilizer,Saline soil leaching and drainage management
+How to correct acidic soil using agricultural lime application,soil_and_fertilizer,Lime amendment for soil acidity
+Alkaline soil amendment with gypsum powder per acre dose,soil_and_fertilizer,Gypsum application for sodic soil
+Potassium fertilizer deficiency causing scorch on leaf edges of banana,soil_and_fertilizer,Potash nutrition management
+Phosphorus deficiency leading to purple stems and poor rooting in maize crop,soil_and_fertilizer,Phosphate nutrition in cereals
+How to prepare enriched vermicompost from cow dung and farm crop waste,soil_and_fertilizer,Organic manure production
+Zinc sulfate 21 percent soil dose for kharif paddy nursery seedlings,soil_and_fertilizer,Zinc application in rice nursery
+Iron chlorosis nutrient treatment using ferrous sulfate foliar spray,soil_and_fertilizer,Iron deficiency treatment
+Boron application to avoid browning and hollow stem in cauliflower curd,soil_and_fertilizer,Boron nutrition in vegetables
+Magnesium deficiency red leaves in cotton crop management,soil_and_fertilizer,Secondary nutrient deficiency
+Biofertilizer azotobacter and PSB phosphate solubilizing bacteria use for seed coating,soil_and_fertilizer,Biofertilizer application
+Neem coated urea split dose schedule for sugarcane crop growth,soil_and_fertilizer,Urea split application
+Green manure crop dhaincha sesbania incorporation before paddy transplanting,soil_and_fertilizer,Green manuring technique
+How many irrigations are required for wheat and what are critical watering stages?,irrigation_and_water,Critical irrigation stages for wheat
+Drip irrigation emitter discharge is clogged with mineral salt deposits,irrigation_and_water,Drip system maintenance and acid flushing
+Paddy field is heavily submerged after flash rain how to manage excess water drainage?,irrigation_and_water,Waterlogging drainage in flooded field
+How frequently should drip irrigation run for capsicum in sandy loam soil?,irrigation_and_water,Drip irrigation schedule for vegetables
+Can sprinkler irrigation cause fungal infection during flowering in mustard?,irrigation_and_water,Sprinkler method impact on flowering crop
+Soil moisture measurement using tensiometer or simple touch-and-feel method,irrigation_and_water,Farm soil moisture monitoring
+Crop wilting during afternoon heat how to protect seedlings with mulch?,irrigation_and_water,Mulching to conserve soil moisture
+Critical water requirement for chickpea during branching and pod filling,irrigation_and_water,Irrigation scheduling in pulse crops
+Furrow irrigation versus alternate furrow irrigation for sugarcane water saving,irrigation_and_water,Water-saving furrow irrigation technique
+Signs of overwatering in groundnut crop leading to root suffocation,irrigation_and_water,Waterlogging risk in oilseeds
+Water salinity TDS is 1800 ppm can I use it safely for irrigating pomegranate?,irrigation_and_water,Saline water tolerance in horticulture
+How to construct farm pond for rainwater harvesting and protective irrigation?,irrigation_and_water,Rainwater harvesting pond design
+Best time of day for irrigating tomato field to minimize evaporation losses,irrigation_and_water,Irrigation timing to reduce evapotranspiration
+Cotton squaring stage water stress how to apply lifesaving irrigation?,irrigation_and_water,Deficit irrigation management in cotton
+Sub-surface drip irrigation installation depth for banana plantation,irrigation_and_water,Sub-surface drip layout for fruit crops
+How long can maize crop survive temporary water stagnation without yield loss?,irrigation_and_water,Maize tolerance to temporary waterlogging
+Scheduling irrigation for potato tubers to avoid cracking and hollow heart,irrigation_and_water,Uniform moisture management in tuber crop
+Low cost drip system for smallholder vegetable farming,irrigation_and_water,Micro-irrigation for marginal farmers
+Water conservation using plastic mulch film in water-scarce dryland farming,irrigation_and_water,Soil moisture retention with mulching
+Contour bunding and trenches for conserving runoff water on sloping farmland,irrigation_and_water,Soil and moisture conservation structures
+Critical crown root initiation CRI irrigation timing in wheat crop,irrigation_and_water,CRI stage irrigation
+How many days interval for drip watering in greenhouse tomato crop,irrigation_and_water,Drip frequency in protected cultivation
+Clearing clogged drip emitters using dilute hydrochloric acid flush,irrigation_and_water,Acid treatment for micro irrigation
+Drainage channel construction to evacuate excess flood water from field,irrigation_and_water,Surface field drainage
+Alternate furrow irrigation method for water saving in maize and cotton,irrigation_and_water,Alternate furrow method
+Sprinkler irrigation timing to avoid fungal spore spread during flowering,irrigation_and_water,Overhead sprinkler precautions
+Soil moisture check using tensiometer vacuum reading before watering,irrigation_and_water,Tensiometer scheduling
+Protective emergency irrigation during drought dry spell in rainfed groundnut,irrigation_and_water,Life saving irrigation
+Water requirements during silking and tasseling in corn crop,irrigation_and_water,Maize critical moisture stage
+Subsurface drip irrigation benefits in commercial sugarcane plantation,irrigation_and_water,Subsurface drip technology
+Overwatering signs causing root suffocation and chlorosis in pulses,irrigation_and_water,Overwatering damage
+Mulching with crop residue or plastic sheet to reduce soil water evaporation,irrigation_and_water,Mulching moisture conservation
+What are visual maturity indicators to know when paddy crop is ready for harvest?,weather_and_harvest,Harvest maturity index in rice
+Safe grain moisture percentage for long term storage of wheat and paddy,weather_and_harvest,Optimal grain moisture for warehousing
+Unseasonal rain forecast during wheat harvesting how to protect harvested grain?,weather_and_harvest,Post-harvest crop protection against rain
+How to protect potato and mustard crops from severe winter frost damage?,weather_and_harvest,Frost protection techniques with night irrigation and smoke
+Corn cobs harvesting stage when husk turns pale brown and black layer forms on kernel,weather_and_harvest,Physiological maturity in maize
+Preventing aflatoxin mold contamination in harvested groundnut pods during drying,weather_and_harvest,Post-harvest drying of groundnut
+Hermetic storage bags versus traditional metal bins to prevent storage weevils,weather_and_harvest,Storage pest prevention and grain bins
+High humidity causing stored pulse seeds to sprout and decay in farm godown,weather_and_harvest,Warehouse ventilation and moisture control
+Handling cotton picking in morning dew versus dry afternoon sunshine,weather_and_harvest,Cotton picking timing and quality preservation
+How to prepare onion bulbs for curing before long term cold storage?,weather_and_harvest,Onion curing and storage techniques
+Heavy gale wind and storm advisory how to stake tall banana and papaya plants?,weather_and_harvest,Wind storm propping for tall plants
+Pigeonpea crop harvesting when 80 percent pods turn brown and dry,weather_and_harvest,Maturity indicators for red gram
+Safe drying of soybean seeds under shaded threshing floor to preserve germination,weather_and_harvest,Soybean seed processing and drying
+Using tarpaulin covers to prevent dampness in open field grain heaps,weather_and_harvest,Temporary rain shelter for harvested produce
+Heat wave conditions forecast during wheat grain filling how to mitigate heat stress?,weather_and_harvest,Heat wave mitigation in rabi cereals
+Harvesting sugarcane when brix reading reaches 18 to 20 percent on refractometer,weather_and_harvest,Cane maturity evaluation via brix index
+Cleaning and fumigating farm store room before storing new harvest,weather_and_harvest,Storage sanitation and warehouse management
+Protecting mango flower panicles from sudden hail storm and cloudy weather,weather_and_harvest,Weather adversity management in orchard crops
+Proper sun drying of turmeric fingers before boiling and polishing,weather_and_harvest,Post-harvest curing of spice crops
+Preventing seed shattering in mustard and sesame during delayed harvesting,weather_and_harvest,Harvest timing to avoid seed shattering
+How to identify when rice crop has reached physiological maturity for combine harvest,weather_and_harvest,Rice harvesting criteria
+Safe moisture percentage for storing paddy and wheat grain safely in warehouse,weather_and_harvest,Grain moisture limits
+Protecting wheat heaps from sudden unseasonal rainfall during harvest season,weather_and_harvest,Grain protection against rain
+Winter frost prevention in potato and mustard using night smoke and irrigation,weather_and_harvest,Frost damage control
+Curing and shade drying onions before putting in storage godown to prevent rotting,weather_and_harvest,Onion storage curing
+Hermetic grain storage bags to stop pulse beetle and weevils in stored seeds,weather_and_harvest,PICS bag storage
+Storing soybean seed at low moisture to protect seed germination viability,weather_and_harvest,Soybean seed viability
+Propping tall sugarcane and banana stalks against storm winds and cyclones,weather_and_harvest,Crop storm protection
+Threshing and cleaning wheat grain to reduce dockage and chaff before marketing,weather_and_harvest,Threshing and cleaning
+Sun drying groundnut pods on tarpaulin sheet to avoid aflatoxin mold contamination,weather_and_harvest,Aflatoxin prevention
+Tarpaulin covers for open grain piles to protect against night dew and sudden showers,weather_and_harvest,Produce protection
+Harvesting red gram when majority of pods turn dark brown and dry on plant,weather_and_harvest,Pigeonpea harvest timing
+Bacterial leaf streak in rice causing narrow translucent brown stripes along veins,crop_disease,Bacterial leaf streak in rice
+Loose smut fungus replacing wheat grains with black powdery mass of spores,crop_disease,Loose smut in wheat
+Clubroot disease causing swollen malformed roots and stunted growth in mustard,crop_disease,Clubroot in crucifers
+Late blight water soaked dark lesions on potato leaves with white mildew on underside,crop_disease,Late blight in potato
+Anthracnose circular sunken dark spots on chili fruits turning rotten,crop_disease,Chili anthracnose fruit rot
+Rust pustules producing reddish brown powdery spores on soybean leaves,crop_disease,Soybean rust
+Downy mildew causing angular yellow patches on top of cucumber leaves,crop_disease,Downy mildew in cucurbits
+Citrus canker raised corky necrotic scabs on lime leaves and twigs,crop_disease,Citrus canker bacterial infection
+Fusarium vascular wilt causing unilateral leaf yellowing and brown xylem vessels,crop_disease,Fusarium vascular wilt
+Bacterial wilt in brinjal plants wilting rapidly while still green,crop_disease,Bacterial wilt in eggplant
+Powdery mildew white felt-like fungal growth coating rose stems and flower buds,crop_disease,Powdery mildew on ornamentals
+Tikka leaf spot fungal lesions surrounded by bright yellow rings on groundnut,crop_disease,Cercospora tikka disease
+Collar rot fungal mycelium girdling the stem base of chili seedlings,crop_disease,Collar rot in seedlings
+Black rot in cauliflower causing V-shaped chlorotic lesions on leaf margins,crop_disease,Black rot in brassicas
+Smut galls filled with dark fungal spores bursting on maize ears,crop_disease,Common corn smut
+Ginger rhizome rot caused by Pythium fungus in heavy waterlogged soils,crop_disease,Rhizome rot in ginger
+Yellow mosaic viral disease transmitted by vectors in mungbean crop,crop_disease,Yellow mosaic virus in pulses
+Stem rot disease in groundnut showing white webby fungal strands near soil,crop_disease,Sclerotium stem rot
+Helicoverpa armigera pod borer caterpillars boring into pigeonpea and gram pods,pest_management,Helicoverpa pod borer
+Armyworm larvae marching in large swarms eating cereal crop foliage at night,pest_management,Armyworm outbreak
+Blister beetles feeding greedily on flower petals of red gram and pulses,pest_management,Blister beetle pest
+Citrus butterfly caterpillars defoliating young citrus nursery seedlings,pest_management,Citrus swallowtail caterpillar
+White grubs feeding on groundnut roots underground causing plants to dry up,pest_management,White grub root feeder
+Mango hopper insects swarming flower panicles and secreting sticky honeydew,pest_management,Mango hopper pest
+Spotted bollworm larvae boring into cotton squares and terminal shoots,pest_management,Spotted bollworm
+Rice hispa beetles scraping chlorophyll from paddy leaves leaving white streaks,pest_management,Rice hispa beetle
+Onion thrips causing silvery mottled patches and curled withered leaf tips,pest_management,Onion thrips pest
+Flea beetles chewing thousands of tiny shotgun holes in vegetable leaves,pest_management,Flea beetle foliage damage
+Wireworms attacking planted maize seeds and seedlings beneath the soil,pest_management,Wireworm subterranean pest
+Fruit borer larvae making tunnels inside okra bhindi pods with excreta,pest_management,Okra fruit borer
+Jassids leafhoppers sucking sap from underside of cotton leaves causing leaf bronzing,pest_management,Cotton jassids hopper burn
+Diamondback moth caterpillars riddling cabbage head with holes,pest_management,Diamondback moth caterpillar
+Sugarcane top borer larvae killing terminal growing point producing bunchy top,pest_management,Top borer in sugarcane
+Mealybugs coating custard apple fruits with thick white sticky colonies,pest_management,Mealybug fruit infestation
+Stem fly maggots burrowing through soybean seedlings causing wilted shoots,pest_management,Stem fly maggot attack
+Mustard aphid colonies covering flower inflorescences and curling tender siliquae,pest_management,Mustard aphid infestation
+Nitrogen deficiency causing stunted pale spindly growth and early leaf senescence,soil_and_fertilizer,Nitrogen nutrient deficiency
+Phosphorus starvation in maize causing reddish purple coloration on stems and veins,soil_and_fertilizer,Phosphorus deficiency purpling
+Potassium potash deficiency leading to necrotic scorching on outer leaf tips,soil_and_fertilizer,Potash leaf scorch
+Calcium deficiency induced blossom end rot with dark sunken bottom on tomatoes,soil_and_fertilizer,Calcium deficiency blossom end rot
+Magnesium deficiency showing bright red and purple discoloration between older veins,soil_and_fertilizer,Magnesium chlorosis
+Khaira disease in rice caused by acute zinc deficiency showing rusty brown leaves,soil_and_fertilizer,Zinc deficiency khaira disease
+Iron chlorosis on alkaline calcareous soil causing yellow leaves with green veins,soil_and_fertilizer,Iron deficiency chlorosis
+Boron deficiency causing brown curd and hollow stem in cauliflower,soil_and_fertilizer,Boron deficiency hollow heart
+Application rate of neem coated urea per hectare for maximum nitrogen efficiency,soil_and_fertilizer,Urea fertilizer dosing
+Using single super phosphate SSP to supply phosphorus and sulfur together,soil_and_fertilizer,SSP phosphatic fertilizer
+Dosing muriate of potash MOP to improve grain filling and drought resistance,soil_and_fertilizer,Potash fertilizer dosing
+Reclaiming acidic soils with agricultural limestone dolomite broadcast,soil_and_fertilizer,Lime amendment for acidity
+Gypsum application rate for treating sodic alkali soils with high exchangeable sodium,soil_and_fertilizer,Gypsum for sodic soil
+Preparation of Jeevamrut and enriched farmyard manure for organic nutrient supply,soil_and_fertilizer,Organic bio-enhancers
+Rhizobium biofertilizer inoculation on pulse seeds to enhance biological nitrogen fixation,soil_and_fertilizer,Rhizobium seed treatment
+Phosphate solubilizing bacteria PSB application to mobilize fixed phosphorus in soil,soil_and_fertilizer,PSB biofertilizer
+Correcting sulfur deficiency in mustard to increase oil percentage in seeds,soil_and_fertilizer,Sulfur nutrition in oilseeds
+Soil test based balanced fertilization using NPK 4:2:1 ratio for cereal crops,soil_and_fertilizer,Balanced NPK ratio
+Critical watering at crown root initiation CRI stage in dwarf wheat crop,irrigation_and_water,CRI irrigation stage in wheat
+Irrigation schedule during flowering and pod development in chickpea,irrigation_and_water,Pulse crop irrigation timing
+Flushing drip irrigation lateral tubes with dilute acid to dissolve calcium scaling,irrigation_and_water,Drip lateral acid flushing
+Surface drainage ditch layout to drain submerged paddy nursery after excessive rain,irrigation_and_water,Drainage in flooded nursery
+Water stress at maize tasseling and silking stage causing poor seed set,irrigation_and_water,Critical moisture stage in corn
+Frequency of drip fertigation for high density banana plantation,irrigation_and_water,Drip irrigation frequency
+Alternate furrow irrigation technique to save 30 percent irrigation water,irrigation_and_water,Alternate furrow water saving
+Sprinkler irrigation precautions to prevent high humidity during crop bloom,irrigation_and_water,Sprinkler irrigation management
+Tensiometer installation depth to monitor root zone soil moisture tension,irrigation_and_water,Soil tensiometer scheduling
+Mulching cotton rows with dry straw to suppress evaporation and conserve moisture,irrigation_and_water,Straw mulch water conservation
+Overwatering pulse crops causing anaerobic root rot and yellowing suffocation,irrigation_and_water,Overwatering waterlogging hazard
+Protective emergency watering for rainfed groundnut during extended dry spells,irrigation_and_water,Deficit protective irrigation
+Subsurface drip irrigation emitter clogging prevention and screen filter cleaning,irrigation_and_water,Subsurface drip filter maintenance
+Waterlogging alleviation by broad bed and furrow BBF method in black cotton soils,irrigation_and_water,BBF drainage system
+Irrigating vegetable crops in early morning hours to minimize evaporative loss,irrigation_and_water,Diurnal irrigation timing
+Water salinity TDS limits for irrigating citrus and horticultural orchards,irrigation_and_water,Saline irrigation water threshold
+Rainwater harvesting farm pond lining with HDPE film to stop seepage loss,irrigation_and_water,Farm pond water storage
+Furrow length and slope considerations for uniform water distribution in field,irrigation_and_water,Surface furrow hydraulics
+Harvesting paddy when 85 percent grains in panicles turn straw golden yellow,weather_and_harvest,Paddy harvest maturity index
+Black layer formation at the tip of maize kernels signaling physiological maturity,weather_and_harvest,Maize black layer maturity
+Harvesting pigeonpea when majority of pods become dry brittle and dark brown,weather_and_harvest,Pigeonpea maturity indicator
+Optimal safe moisture level for long term storage of wheat grains below 12 percent,weather_and_harvest,Safe grain storage moisture
+Sun drying pulse seeds on clean cement floor to prevent mold and pulse beetles,weather_and_harvest,Pulse seed drying protocol
+Hermetic triple layer storage bags to prevent weevil and pest damage in grains,weather_and_harvest,Hermetic storage bags
+Protecting potato and mustard crops from frost injury through night smoke screens,weather_and_harvest,Winter frost mitigation
+Unseasonal rain forecast during harvesting protecting threshed grain with tarpaulins,weather_and_harvest,Post-harvest rain protection
+Curing onion bulbs in shade for two weeks to tighten neck and stop storage rot,weather_and_harvest,Onion curing before storage
+Propping and tying tall sugarcane stalks to avoid lodging during monsoon squalls,weather_and_harvest,Sugarcane storm lodging prevention
+Refractometer brix percentage test to determine peak sugarcane harvest maturity,weather_and_harvest,Sugarcane brix harvest index
+Combine harvester threshing drum speed adjustment to prevent grain breakage,weather_and_harvest,Combine harvest grain loss
+Fumigating farm godowns with aluminum phosphide for insect-free grain warehousing,weather_and_harvest,Grain warehouse fumigation
+Heat wave mitigation in wheat during grain filling with light irrigation misting,weather_and_harvest,Terminal heat stress mitigation
+Harvesting sesame and mustard early morning to prevent shattering seed loss,weather_and_harvest,Harvest timing against shattering
+Post-harvest washing and solar drying of turmeric fingers before bagging,weather_and_harvest,Turmeric curing and drying
+Cotton picking in sunny afternoon after morning dew has completely evaporated,weather_and_harvest,Clean cotton picking timing
+Grain aerators and moisture meters for commercial silo grain preservation,weather_and_harvest,Silo moisture monitoring
